@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bandwidth/Bandwidth.vcxproj" Id="ba404b1f-2ab7-4978-aa62-dd9220657b8f" />
+  <Project Path="DownloadTime/DownloadTime.vcxproj" Id="84b63f7e-dc3c-41ed-b464-9ef89755cb6f" />
+  <Project Path="StreamingData/StreamingData.vcxproj" Id="d24a20eb-aba4-481a-a511-6bc7434987d5" />
+  <Project Path="StreamingDataExtra/StreamingDataExtra.vcxproj" Id="6a576c93-deca-443d-aa53-55bbe3fdeedd" />
+</Solution>
